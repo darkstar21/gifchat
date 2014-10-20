@@ -1,6 +1,7 @@
 'use strict';
 
 angular.module('gifchatApp', [
+  'firebase',
   'ngCookies',
   'ngResource',
   'ngSanitize',
