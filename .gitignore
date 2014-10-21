@@ -72,6 +72,7 @@ build/Release
 node_modules/
 bower_components/
 dist/
+data/
 
 # Users Environment Variables
 .lock-wscript
